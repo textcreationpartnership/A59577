@@ -1,0 +1,486 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The things that make for peace delivered in a sermon preached before the right honourable the Lord Mayor, and the Court of Aldermen, at Guild-Hall-Chappel, upon the 23 of August, 1674 / by John Sharpe, D.D., now Lord Arch-bishop of York.</title>
+            <author>Sharp, John, 1645-1714.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 68 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59577</idno>
+            <idno type="STC">Wing S3004</idno>
+            <idno type="STC">ESTC R41707</idno>
+            <idno type="EEBO-CITATION">31355802</idno>
+            <idno type="OCLC">ocm 31355802</idno>
+            <idno type="VID">110686</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59577)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110686)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1752:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The things that make for peace delivered in a sermon preached before the right honourable the Lord Mayor, and the Court of Aldermen, at Guild-Hall-Chappel, upon the 23 of August, 1674 / by John Sharpe, D.D., now Lord Arch-bishop of York.</title>
+                  <author>Sharp, John, 1645-1714.</author>
+                  <author>Hooker, William, Sir, 1612-1697.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second edition.</edition>
+               </editionStmt>
+               <extent>[6], 27, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Walter Kettilby ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: p. [1]-[3] at end.</note>
+                  <note>Running title: A sermon preach'd before the lord mayor.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Romans XIV, 19 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:110686:1"/>
+            <opener>
+               <signed>Hooker Mayor.</signed>
+               <lb/>
+               <dateline>
+                  <date>
+                     <hi>Jovis</hi> xxvii. <hi>die Auguſti,</hi> 1674. <hi>Anno<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> Regni Regis</hi> CAROLI <hi>Secundi An<g ref="char:EOLhyphen"/>gliae,</hi> &amp;c. xxvi.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by this Court, That Mr. <hi>Sharpe</hi> be deſired to Print his Sermon, Preached on <hi>Sunday</hi> laſt before the <hi>Lord Mayor</hi> and <hi>Aldermen</hi> of this City, at the <hi>Guild-Hall</hi> Chappel.</p>
+            <closer>
+               <signed>Wagſtaffe.</signed>
+            </closer>
+         </div>
+         <div type="imprimatur">
+            <p>Imprimatur.</p>
+            <closer>
+               <dateline>
+                  <date>Sept. 11. 1674.</date>
+               </dateline>
+               <signed>
+                  <hi>Guliel. Wigan,</hi> Rev. in Ch. Pat. ac D<hi rend="sup">o</hi>. D<hi rend="sup">o</hi>. <hi>Humf.</hi> Epiſc. <hi>Lond.</hi> in Sac. Dom.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <p>
+               <hi>The Things that make for Peace.</hi>
+            </p>
+            <p>Delivered in a SERMON Preached before the Right Honourable THE Lord Mayor, AND THE Court of ALDERMEN, AT <hi>G<g ref="char:V">Ʋ</g>ILD-HALL</hi>-CHAPPEL, Upon the 23. of <hi>Auguſt,</hi> 1674.</p>
+            <p>By <hi>JOHN SHARPE,</hi> D. D. now Lord Arch-Biſhop of <hi>YORK.</hi>
+            </p>
+            <p>
+               <hi>The Second Editon.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Walter Kettilby,</hi> at the <hi>Biſhop's Head</hi> in St. <hi>Paul</hi>'s Church-Yard, 1691.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:110686:2"/>
+            <pb facs="tcp:110686:2"/>
+            <head>TO THE Right Honourable Sir <hi>WILLIAM HOOKER,</hi> Lord Mayor OF LONDON, And to the COURT of ALDERMEN.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>THE following Diſcourſe was ne<g ref="char:EOLhyphen"/>ver deſigned to go further than your own <hi>Chappel,</hi> otherwiſe it had not been left ſo Imperfect: But ſince you have thought fit to Order it ſhould be more Publick, it would ill become me, who
+<pb facs="tcp:110686:3"/>do in it ſo earneſtly preſs <hi>Obedience</hi> to <hi>Superiours,</hi> to diſpute your Commands. Such therefore as it is, I humbly preſent it to you, heartily wiſhing it may in ſome degree mi<g ref="char:EOLhyphen"/>niſter to the Promoting <hi>Peace</hi> and <hi>Unity,</hi> and <hi>Brotherly Love</hi> among us, which is the only thing therein aimed at, by</p>
+            <closer>
+               <salute>Right Honourable,</salute> 
+               <signed>Your moſt Humble and Obedient Servant, <hi>JOHN SHARPE.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:110686:3"/>
+            <epigraph>
+               <q>
+                  <bibl>ROM. xiv. 19.</bibl>
+                  <p>
+                     <hi>Let us therefore follow after the things that make for Peace.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>THE <hi>Apoſtle</hi>'s deſign in this <hi>Chapter,</hi> is to per<g ref="char:EOLhyphen"/>ſwade the <hi>Roman</hi> Chriſtians to live <hi>Peace<g ref="char:EOLhyphen"/>ably</hi> one with another, notwithſtanding all their different <hi>Perſwaſions</hi> in matters of <hi>Re<g ref="char:EOLhyphen"/>ligion.</hi>
+            </p>
+            <p>He doth not ſo much ſet himſelf to <hi>Reſolve</hi> their <hi>Contra<g ref="char:EOLhyphen"/>verſies,</hi> to determine which <hi>Side</hi> held the Trueſt Opinions; as to <hi>Silence</hi> their <hi>Diſputes,</hi> to allay thoſe <hi>Bitterneſſes</hi> and <hi>Animoſities</hi> with which the ſeveral <hi>Parties</hi> proſecuted each other, to oblige them to <hi>embrace</hi> one another in Chriſtian <hi>Charity;</hi> and though there could not be an <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> of <hi>Judg<g ref="char:EOLhyphen"/>ment</hi> among them; (which certainly is a thing can never be expected; mens apprehenſions concerning things being neceſſarily almoſt as various as are their <hi>Tempers</hi> and <hi>Com<g ref="char:EOLhyphen"/>plexions;</hi>) yet nevertheleſs they ſhould ſo order the matter, that there might at leaſt be an <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> of <hi>Affection,</hi> and an a<g ref="char:EOLhyphen"/>micable communication one with another.</p>
+            <p>He repreſents to them that they had nothing to do to <hi>Judge</hi> or <hi>Cenſure</hi> their <hi>Brethren;</hi> 
+               <note place="margin">
+                  <hi>Ver.</hi> 4. &amp; <hi>ſeq.</hi>
+               </note> for they were <hi>God</hi>'s Servants, and to <hi>Him</hi> only they ſtood or fell; that though they were <hi>miſtaken</hi> in their Notions as to the Points in Controverſie, yet nevertheleſs, if what was done upon thoſe <hi>miſtaken</hi> Principles, was done out of a pure heart, and as in obedience to the Commands of God, it would be accepted of him.</p>
+            <pb n="2" facs="tcp:110686:4"/>
+            <p>
+               <note place="margin">
+                  <hi>Ver.</hi> 13, 14, 15.</note>He is ſo far from countenancing their <hi>Religious Quarrels,</hi> that he adviſeth even thoſe that held the true ſide of the Queſtion, to ſubmit for <hi>Peace</hi> ſake, and rather to <hi>recede</hi> from their <hi>right;</hi> to forbear doing that which they might lawfully do, than by undue uſe of their <hi>Liberty</hi> to caſt a <hi>Stumbling-block</hi> before the weak uninſtru<g ref="char:EOLhyphen"/>cted Diſſenters, and be a means of their forſaking Chriſti<g ref="char:EOLhyphen"/>anity.</p>
+            <p>
+               <note place="margin">
+                  <hi>Ver.</hi> 17.</note>And the more to enforce this Diſcourſe he aſ<g ref="char:EOLhyphen"/>ſures them, that however they might pretend <hi>Religion</hi> for their preſent differences, yet in truth, <hi>That</hi> was of all other things the leaſt intereſſed in them. They were much miſtaken in the nature of <hi>it,</hi> if they took it to conſiſt in ſuch ſmall, inconſiderable, external things as they made the matter of their <hi>Diſſenſions. Chriſtianity</hi> was not much concerned, whether they are ſuch kind of <hi>Meats,</hi> or whether they did not eat them; whether they kept <hi>Sab<g ref="char:EOLhyphen"/>baths</hi> and <hi>New-Moons</hi> holy to the Lord, or whether they e<g ref="char:EOLhyphen"/>ſteemed every day alike. <hi>That</hi> was a more <hi>inward,</hi> and a more <hi>noble</hi> thing. It was the hearty practice of <hi>Righteouſ<g ref="char:EOLhyphen"/>neſs</hi> and <hi>Peace,</hi> and <hi>Rejoycing to do good.</hi> Theſe were the things that made a man a <hi>Chriſtian;</hi> 
+               <note place="margin">
+                  <hi>Ver.</hi> 18.</note> and <hi>in Theſe things</hi> (faith the Apoſtle) <hi>be that ſerveth Chriſt is indeed acceptable to God, and approved of men.</hi>
+            </p>
+            <p>And then at laſt from theſe ſeveral <hi>Particulars</hi> he draws this <hi>general</hi> Inference by way of <hi>Exhortation: Let us there<g ref="char:EOLhyphen"/>fore follow after the things that make for peace.</hi>
+            </p>
+            <p>I have given you a brief account of the <hi>Apoſtle</hi>'s diſcourſe in this <hi>Chapter;</hi> and I could heartily wiſh that I had no oc<g ref="char:EOLhyphen"/>caſion to deal any further upon this Subject. Happy were it for <hi>Chriſtians,</hi> if things were in that poſture among them, that they were no further concerned in theſe Diſcourſes of Scripture, than only to be inſtructed in the ſenſe of them. But, alas, whoever underſtands any thing of the ſtate of
+<pb n="3" facs="tcp:110686:4"/>
+               <hi>Chriſtianity,</hi> now for theſe many Ages in the World, will eaſily ſee that no one Point of our <hi>Religion</hi> has been in all times more neceſſary to be daily preached, to be earneſtly preſſed, to be loudly ſounded in the ears of Chriſtians, than this of <hi>Peace</hi> and <hi>Love,</hi> and mutual ſufferance under their different <hi>apprehenſions</hi> of <hi>Religion.</hi>
+            </p>
+            <p>It has fared (as one hath obſerved) with <hi>Chri<g ref="char:EOLhyphen"/>ſtianity</hi> in this matter, <note place="margin">
+                  <hi>Mr.</hi> Hales.</note> as it did with the <hi>Jewiſh</hi> Diſpenſation of old. The <hi>great</hi> and <hi>principal</hi> Commandment which God gave the <hi>Jews,</hi> and which (as they themſelves teach) was the <hi>Foundation</hi> of all their <hi>Law,</hi> was to <hi>worſhip</hi> the <hi>God</hi> of <hi>Iſrael,</hi> and <hi>Him</hi> only to <hi>ſerve:</hi> yet ſuch was the ſottiſhneſs and perverſeneſs of that <hi>People,</hi> that <hi>This</hi> was the Com<g ref="char:EOLhyphen"/>mandment, that of all others they could never be obliged to keep; but they were continually running a whoring af<g ref="char:EOLhyphen"/>ter the <hi>Gods</hi> of the <hi>Nations,</hi> notwithſtanding all the various ways and methods that God made uſe of to reclaim them from that ſin. What the <hi>Worſhip</hi> of <hi>one God</hi> was to the <hi>Jews,</hi> that <hi>Peace</hi> and <hi>Love,</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> is to the <hi>Chriſtians,</hi> even the <hi>grand</hi> diſtinguiſhing <hi>Law</hi> and <hi>Character</hi> of their <hi>Profeſſion:</hi> and yet with <hi>ſorrow,</hi> and to our unſpeakable <hi>confuſion</hi> it may be ſpoken, There is no <hi>Religion</hi> that ever was known in the World hath given Birth to ſo many <hi>He<g ref="char:EOLhyphen"/>reſies,</hi> hath been intituled to ſo many needleſs Diſputes and Quarrels, hath been crumbled into ſo many <hi>Sects</hi> and <hi>Parties,</hi> hath been proſecuted by all the ſeveral <hi>Pretenders</hi> to it with ſo much heat and fury, and implacable animoſity, hath been made the occaſion of ſo much Tumult, War, and Blood<g ref="char:EOLhyphen"/>ſhed, as this excellent, this innocent, and gall-leſs <hi>Religion</hi> of ours.</p>
+            <p>To go no further than our ſelves, and the poſture we ſtand in at this day; if ever any <hi>Society</hi> of <hi>Chriſtians</hi> could be obliged to live in Brotherly <hi>Love and Communion</hi> with one another, we certainly are the Men. For beſides the
+<pb n="4" facs="tcp:110686:5"/>engagements of our <hi>Religion,</hi> common to us with other <hi>Chriſtians,</hi> we have all the external advantages which a wiſe and well-temper'd Settlement of <hi>Church-affairs,</hi> a mild and juſt <hi>Government,</hi> and excellent Laws can give to the pro<g ref="char:EOLhyphen"/>moting thereof.</p>
+            <p>Religion is eſtabliſhed among us in as great <hi>Purity</hi> as ever perhaps it was ſince the <hi>Apoſtles</hi> times.</p>
+            <p>The <hi>Government</hi> we live under, is neither ſo <hi>Lax</hi> as to de<g ref="char:EOLhyphen"/>feat its own ends, nor ſo <hi>Severe</hi> as to exerciſe Tyranny over our Conſciences.</p>
+            <p>The <hi>Terms</hi> of our <hi>Communion</hi> are more large, and mode<g ref="char:EOLhyphen"/>rate, and eaſie to be ſubmitted to by men of different <hi>Perſwa<g ref="char:EOLhyphen"/>ſions,</hi> than any other <hi>Church-Society</hi> that I know of doth allow at this day. And this is ſo acknowledged, that there is ſcarce any of the ſeveral diſagreeing <hi>Parties</hi> among us, but next to their <hi>own Church</hi> would prefer <hi>Ours</hi> before all others.</p>
+            <p>The <hi>Doctrines</hi> that make up our publick <hi>Confeſſion</hi> are ex<g ref="char:EOLhyphen"/>preſſed in ſuch a <hi>latitude,</hi> that they have been, and are ge<g ref="char:EOLhyphen"/>nerally aſſented to, by moſt of the <hi>Diſſenters</hi> from us. And that wherein <hi>We</hi> differ from others, is not our <hi>adding</hi> to the <hi>Faith</hi> new and queſtionable <hi>Doctrines,</hi> but our <hi>rejecting,</hi> or not <hi>impoſing</hi> their <hi>Innovations.</hi>
+            </p>
+            <p>Our <hi>Publick Service</hi> hath not a <hi>Prayer</hi> in it but what any Chriſtian in the World may lawfully ſay <hi>Amen</hi> to.</p>
+            <p>Our <hi>Ceremonies</hi> are but <hi>few,</hi> and thoſe very <hi>decent,</hi> and un<g ref="char:EOLhyphen"/>queſtionably of <hi>Primitive Antiquity.</hi>
+            </p>
+            <p>The <hi>Penalties</hi> which the <hi>Laws</hi> inflict upon thoſe that <hi>ſepa<g ref="char:EOLhyphen"/>rate</hi> from our <hi>Communion</hi> are ſo eaſie, and ſo moderate, that methinks <hi>Sober</hi> men ſhould be aſhamed to call them <hi>Perſecutions;</hi> and ſhould rather ſit down contentedly under them, than by endeavouring, or deſiring any <hi>Alteration,</hi> endanger the bringing the <hi>Church,</hi> and poſſibly <hi>themſelves</hi> into far greater inconveniences than thoſe they now ſuf<g ref="char:EOLhyphen"/>fer.</p>
+            <pb n="5" facs="tcp:110686:5"/>
+            <p> In a word, ſo excellent is the temper of our preſent <hi>Settle<g ref="char:EOLhyphen"/>ment,</hi> that there is no <hi>Church</hi> in the World, with which men of differing <hi>Perſwaſions</hi> may more ſafely communi<g ref="char:EOLhyphen"/>cate; and under which, even <hi>Diſſenters,</hi> if they be peace<g ref="char:EOLhyphen"/>able, may live more happily than the <hi>Church</hi> of <hi>England.</hi>
+            </p>
+            <p>But now, how do we demean our ſelves under this hap<g ref="char:EOLhyphen"/>py Conſtitution of affairs? What <hi>Fruits</hi> of the <hi>Goſpel</hi> of <hi>Peace</hi> do we yield ſuitable to theſe great external Advanta<g ref="char:EOLhyphen"/>ges? One might rationally expect to ſee <hi>Religion</hi> in quite another <hi>Face</hi> among us, than it hath in other parts of the World; and that enjoying ſuch excellent means of <hi>Peace</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> as we do, and eſpecially having ſufficiently ex<g ref="char:EOLhyphen"/>perienced the Miſeries of <hi>Diſcord;</hi> there ſhould no ſuch thing as <hi>Faction</hi> or <hi>Diviſion</hi> he heard of among us, but that we ſhould All like <hi>Brethren</hi> Chriſtianly joyn together with our <hi>Common Mother,</hi> and in ſmaller matters <hi>bear</hi> with one anothers Weakneſſes, and Ignorances, and Miſtakes, as doubtleſs <hi>God</hi> himſelf will; and as the <hi>Church,</hi> which is prin<g ref="char:EOLhyphen"/>cipally concern'd, in many caſes doth.</p>
+            <p>But alas, the event doth too notoriouſly diſcover the con<g ref="char:EOLhyphen"/>trary to all this, and that to the ſhame of our ſelves, and the reproach of our Church, and the ſcandal of Religion, and the rejoycing of our Enemies, and the grief of all good men.</p>
+            <p>Never were our <hi>Differences</hi> higher, our <hi>Oppoſitions</hi> one of another more violent, our <hi>Schiſms</hi> and <hi>Separations</hi> more numerous, and more obſtinate than they are at this day.</p>
+            <p>We diſpute eternally, we quarrel without grounds, and without meaſure; we ſtickle for every <hi>Trifle,</hi> and are as much concerned for the propagating a ſilly <hi>Notion,</hi> which might very well be let alone without our being a jot the worſe Chriſtians, as if the <hi>Fundamentals</hi> of our <hi>Religion</hi> lay at ſtake.</p>
+            <p>We revile, we reproach, we beſpatter one another; and
+<pb n="6" facs="tcp:110686:6"/>though we be extremely <hi>ſcrupulous</hi> in ſmaller matters, yet we make no <hi>ſcruple</hi> of ſacrificing <hi>charity,</hi> and the <hi>Churches Peace</hi> to every <hi>humour,</hi> and every <hi>paſſion.</hi> And whileſt we are zealous in the matter of an <hi>Opinion,</hi> or a ſmall Ceremo<g ref="char:EOLhyphen"/>ny; we often loſe all ſenſe of Religion, and good Manners, and even Humanity it ſelf.</p>
+            <p>What the Conſequences of theſe unreaſonable and un<g ref="char:EOLhyphen"/>chriſtian <hi>Feuds</hi> may be, we know not. I pray God they do not end, either in a very great <hi>Corruption,</hi> or a total <hi>Subverſion</hi> of <hi>Chriſtianity</hi> among us. It was theſe <hi>ſins,</hi> if it be lawful to gueſs at the reaſons of God's Judgments from outward Appearances, that brought deſolation upon thoſe once flouriſhing <hi>Churches</hi> of <hi>Afric</hi> and <hi>Aſia;</hi> and who knows, if they be obſtinately perſiſted in, but they may be an oc<g ref="char:EOLhyphen"/>caſion of <hi>God's removing</hi> his <hi>Candleſtick</hi> from us alſo.</p>
+            <p>And now is it not needful that every <hi>Chriſtian</hi> ſhould uſe his utmoſt endeavour to <hi>ſtill</hi> that <hi>Spirit</hi> of <hi>Contention</hi> that is gone forth among us? Is it not needful that every <hi>Son of Peace</hi> ſhould bring ſome <hi>water</hi> to the quench<g ref="char:EOLhyphen"/>ing of our <hi>Flames?</hi>
+            </p>
+            <p>Let me therefore this day take up St. <hi>Paul</hi>'s exhortation to you; let me beſeech you, let me conjure you; <hi>if there be any Conſolation in Chriſt, if any Comfort of Love, if any Fel<g ref="char:EOLhyphen"/>lowſhip of the Spirit, if any Bowels and Mercies,</hi> that now at length laying aſide all <hi>bitterneſs</hi> and <hi>evil ſpeaking,</hi> all <hi>vari<g ref="char:EOLhyphen"/>ance</hi> and <hi>emulation,</hi> all needleſs Diſputes and Contentions, you would unanimouſly joyn together in <hi>following after the things that make for peace.</hi>
+            </p>
+            <p>And that my <hi>Exhortation</hi> may be the more effectual to the purpoſes I intend it for, I ſhall purſue it; <hi>Firſt,</hi> by way of <hi>Direction; Secondly,</hi> by way of <hi>Motive. Firſt,</hi> I ſhall re<g ref="char:EOLhyphen"/>duce the <hi>Duty</hi> here enjoyned of <hi>following the things that make for peace</hi> to its <hi>particular Rules</hi> and <hi>Inſtances,</hi> that you may know what is to be done by you in order to the performance of it.</p>
+            <pb n="7" facs="tcp:110686:6"/>
+            <p> 
+               <hi>Secondly,</hi> I ſhall ſet before you the very great <hi>Engage<g ref="char:EOLhyphen"/>ments</hi> and <hi>Obligations</hi> that lie upon us to <hi>follow after the things that make for peace;</hi> that you may be perſwaded the more vigorouſly to ſet about it.</p>
+            <p>And both theſe things I ſhall manage as near as I can, with reſpect to the preſent <hi>ſtate</hi> and <hi>poſture</hi> of <hi>Affairs</hi> among us, and withal ſhall always remember that my buſineſs is not to preſcribe <hi>Laws</hi> or <hi>Rules</hi> to my <hi>Superiors</hi> for their Car<g ref="char:EOLhyphen"/>niage in theſe matters, but only to repreſent the Duty that Chriſtians of a <hi>private capacity</hi> do owe to the <hi>Publick,</hi> and to one another.</p>
+            <p>As for the <hi>Firſt</hi> thing, which is, to <hi>direct</hi> and <hi>inſtruct</hi> you in the performance of this Duty of <hi>following the things that make for peace,</hi> you may be pleaſed to take notice, That this Duty hath a twofold Object, according to the two different Relations and Capacities in which we are to be conſidered; to wit, the <hi>Church</hi> our <hi>Mother,</hi> and <hi>particular Chriſtians</hi> our <hi>Brethren.</hi> In the <hi>firſt</hi> Relation we are conſidered as <hi>Sub<g ref="char:EOLhyphen"/>jects;</hi> in the <hi>ſecond</hi> as <hi>Fellow Chriſtians.</hi> With reſpect to the <hi>former,</hi> the <hi>Peace</hi> we are to purſue implies <hi>Obedience,</hi> and <hi>Preſervation of Communion,</hi> in oppoſition to <hi>Schiſm</hi> and <hi>Sepa<g ref="char:EOLhyphen"/>ration.</hi> With reſpect to the <hi>latter,</hi> it implies mutual <hi>Love</hi> and <hi>Charity,</hi> in oppoſition to <hi>Quarrels</hi> and <hi>Contentions.</hi>
+            </p>
+            <p>My buſineſs therefore upon this <hi>firſt</hi> head is to ſhew what are the <hi>Particulars</hi> of our <hi>Duty,</hi> what are the means that con<g ref="char:EOLhyphen"/>duce to <hi>Peace,</hi> in both theſe reſpects.</p>
+            <p>And firſt of all, I begin with what is due from us to the <hi>Church</hi> in order to <hi>Peace,</hi> as <hi>Peace</hi> ſtands in contradiſtinction to <hi>Schiſm.</hi> And this Point I ſhall beg leave to diſcuſs very freely, and very particularly; becauſe I fear we have gene<g ref="char:EOLhyphen"/>rally many falſe <hi>Nations</hi> about it; and yet it is a matter of ſuch conſequence, that I doubt not but the right under<g ref="char:EOLhyphen"/>ſtanding of it would go a great way to the <hi>Cure</hi> of the ſad <hi>Diviſions</hi> that are among us.</p>
+            <pb n="8" facs="tcp:110686:7"/>
+            <p> And that I may diſcourſe with more clearneſs, and more evidence, I ſhall deliver what I have to ſay in this matter, by way of <hi>Propoſitions;</hi> taking my Riſe from the <hi>firſt Prin<g ref="char:EOLhyphen"/>ciple</hi> of <hi>Church-Society,</hi> and ſo regularly aſcending.</p>
+            <p>The <hi>firſt Propoſition</hi> I lay down is this; <hi>That every</hi> Chri<g ref="char:EOLhyphen"/>ſtian <hi>upon the very account of his being ſo, is a</hi> Member <hi>of the</hi> Church <hi>of</hi> Chriſt, <hi>and is bound to joyn in</hi> External Commu<g ref="char:EOLhyphen"/>nion <hi>with it where it can be had.</hi>
+            </p>
+            <p>For the clearing of this, you may be pleaſed to conſider, that the primary Deſign and Intention of our Saviour in his undertaking for us, was not to ſave <hi>particular perſons</hi> with<g ref="char:EOLhyphen"/>out reſpect to a <hi>Society,</hi> but to gather to himſelf a <hi>Church</hi> out of <hi>Mankind,</hi> to erect and form a <hi>Body Politick,</hi> of which himſelf was the <hi>Head,</hi> and particular Chriſtians the <hi>Mem<g ref="char:EOLhyphen"/>bers:</hi> and in this method through <hi>Obedience</hi> to his <hi>Laws</hi> and <hi>Government</hi> to bring men to <hi>Salvation.</hi>
+            </p>
+            <p>And this is no more than what is the Senſe and Language of the <hi>Holy Scriptures;</hi> wherein whatever Chriſt is ſaid to have <hi>done</hi> or <hi>ſuffered</hi> for <hi>Mankind,</hi> he is ſaid to have done for them, not as <hi>ſcattered Individuals,</hi> but as <hi>Incorporated</hi> into a <hi>Church.</hi> 
+               <note place="margin">
+                  <hi>Eph.</hi> 5. 25.</note> Thus <hi>Chriſt loved the Church, and gave himſelf for it.</hi> 
+               <note place="margin">
+                  <hi>Act.</hi> 20. 28.</note> 
+               <hi>Chriſt redeemed the church with his own Blood.</hi> 
+               <note place="margin">
+                  <hi>Eph.</hi> 5. 23.</note> 
+               <hi>Chriſt is the Saviour of his Body,</hi> that is to ſay, the <hi>Church,</hi> with many paſſages of the like impor<g ref="char:EOLhyphen"/>tance.</p>
+            <p>The plain Conſequence from hence is, that every perſon, ſo far as he is a <hi>Chriſtian,</hi> ſo far he is a <hi>Member</hi> of the <hi>Church;</hi> and by virtue of that Relation to the <hi>Church</hi> it is, that he hath any Relation to <hi>Chriſt,</hi> or any Title to the <hi>Priviledges</hi> of the <hi>Goſpel.</hi>
+            </p>
+            <p>And agreeably to this Notion, it is very plain, that <hi>Bap<g ref="char:EOLhyphen"/>tiſm,</hi> which is by all acknowledged to be the <hi>Ceremony</hi> of Initiating us into <hi>Chriſtianity,</hi> is in Scripture declared to be the <hi>Rite</hi> whereby we are entred and admitted into the
+<pb n="9" facs="tcp:110686:7"/>
+               <hi>Church.</hi> Thus St. <hi>Paul</hi> expreſly tells us, that <hi>by one Spirit we are all baptized into one Body.</hi> 
+               <note place="margin">1 <hi>Cor.</hi> 12. 13.</note> And again, that <hi>Chriſt hath ſanctiſied,</hi> that is to ſay, <note place="margin">
+                  <hi>Eph.</hi> 5. 26.</note> ſeparated <hi>his Church by the waſhing of Water and the Word.</hi>
+            </p>
+            <p>Now then it being thus evident, that every Chriſtian as a <hi>Chriſtian,</hi> is a Member of that <hi>Body</hi> of <hi>Chriſt</hi> which we call the <hi>Church:</hi> there will be little need of taking pains to prove, that every ſuch perſon is obliged to joyn in <hi>External Communion</hi> with the <hi>Church</hi> where he can do ſo: for the very nature of this <hi>Church-memberſhip</hi> doth imply it. With<g ref="char:EOLhyphen"/>out this, neither the <hi>Ends</hi> of <hi>Church-Society,</hi> nor the <hi>Benefits</hi> accruing to us therefrom can be attained.</p>
+            <p>
+               <hi>Firſt,</hi> not the <hi>Ends</hi> of it: The Ends of Church-Society are the more <hi>Solemn Worſhip</hi> of God, and the publick Pro<g ref="char:EOLhyphen"/>feſſion of our <hi>Religion,</hi> and the mutual Edification one of a<g ref="char:EOLhyphen"/>nother: Now, how theſe can be in any meaſure attained without aſſociating together in <hi>publick Aſſemblies,</hi> and <hi>mutu<g ref="char:EOLhyphen"/>al Offices,</hi> and other <hi>Acts</hi> of <hi>External Communion</hi> with one ano<g ref="char:EOLhyphen"/>ther, cannot any ways be imagined.</p>
+            <p>And as little in the ſecond place, can it be conceived how without this we can be made partakers of the Benefits and Priviledges that <hi>Chriſt</hi> hath made over to the <hi>Members</hi> of his <hi>Church.</hi> For we are to conſider that God hath ſo ordered the matter, and without doubt for this very reaſon, to unite us the more firmly in <hi>Society,</hi> that the Priviledges of the <hi>Go<g ref="char:EOLhyphen"/>ſpel,</hi> ſuch as Pardon of Sin, and the Grace of the Holy Spi<g ref="char:EOLhyphen"/>rit, are not ordinarily conveyed to us ſo immediately by <hi>God,</hi> but that there muſt intervene the Miniſtry of <hi>Men.</hi> God's holy <hi>Word</hi> and <hi>Sacraments</hi> are the Chanels in which they are derived to us; and <hi>thoſe</hi> to whom he hath committed the Miniſtry of <hi>Reconciliation</hi> and the <hi>Power</hi> of the <hi>Keys,</hi> are the <hi>Hands</hi> that muſt diſpence them. We have no promiſe of <hi>Spiritual Graces,</hi> but by theſe means: ſo that in order to the partaking of them, there is an abſolute neceſſity laid
+<pb n="10" facs="tcp:110686:8"/>upon us of joyning and communicating with the <hi>Church.</hi>
+            </p>
+            <p>It is true indeed, God doth not ſo tie himſelf up to theſe <hi>means,</hi> but that he can, and will in ſome caſes, confer the Benefits of them without them: as in caſe of a <hi>General Apo<g ref="char:EOLhyphen"/>ſtaſie</hi> of the <hi>Church;</hi> or of <hi>Perſecution</hi> for <hi>Religion;</hi> or of an unjuſt <hi>Excommunication,</hi> or any other caſe where Commu<g ref="char:EOLhyphen"/>nion with a <hi>true viſible Church</hi> is denied to us. But though <hi>God</hi> doth act <hi>extraordinarily</hi> in <hi>extraordinary</hi> caſes, where theſe <hi>means</hi> cannot be had; yet this doth not at all dimi<g ref="char:EOLhyphen"/>niſh, much leſs take away the neceſſity of making uſe of <hi>them</hi> when they can be had.</p>
+            <p>From what hath been deſcourſed on this <hi>firſt Propoſition,</hi> we may by the way, gather theſe two things: I only name them. <hi>Firſt,</hi> How untrue their <hi>Poſition</hi> is that maintain, that all our Obligation to Church-Communion, doth ariſe from a voluntary admiſſion of our ſelves into ſome particu<g ref="char:EOLhyphen"/>lar Congregation, and an explicit Promiſe or Ingagement to joyn with it in Church-Ordinances.</p>
+            <p n="2">2. How wildly and extravagantly they diſcourſe that talk of a <hi>Chriſtianity at large,</hi> without relation to a Church, or Communion with any Society of <hi>Chriſtians.</hi>
+            </p>
+            <p>The <hi>ſecond Propoſition</hi> is, <hi>That every one is bound to joyn in</hi> Communion <hi>with the eſtabliſhed</hi> National Church <hi>to which he belongs, ſuppoſing there be nothing in the</hi> Terms <hi>of its</hi> Commu<g ref="char:EOLhyphen"/>nion <hi>that renders it unlawful for him ſo to do.</hi>
+            </p>
+            <p>For if we are bound to maintain Communion with the Catholick Church, as I have before proved, it is plain, that we are bound to maintain Communion with that part of it, within whoſe Verge the Divine Providence has caſt us. For we cannot communicate with the Catholick Church, but by communicating with ſome Part of it: and there is no communicating with any Part of it, but that under which we live, or where we have our Reſidence.</p>
+            <p>Well, but it may be ſaid, that there may be ſeveral Di<g ref="char:EOLhyphen"/>ſtinct
+<pb n="11" facs="tcp:110686:8"/>Churches in the place where we live. There may be the fixed Regular Aſſemblies of the National Church; and there may be ſeparate Congregations; both which are, or pretend to be <hi>Parts</hi> of the Catholick Church; ſo that it may be all one as to our communicating with <hi>that,</hi> which of <hi>theſe</hi> we joyn with, ſuppoſing we joyn but with one of them; and conſequently there is no neceſſity from <hi>that</hi> Principle, that we ſhould hold Communion with the <hi>Publick Aſſemblies</hi> of the <hi>National Church.</hi>
+            </p>
+            <p>But as to this I deſire it may be conſidered, that That, that lays an Obligation upon us to joyn in Communion with the <hi>Church</hi> (to wit our being <hi>Members</hi> of that <hi>one Body</hi> of <hi>Chriſt</hi>) doth alſo lay an Obligation upon us, as much as in us lies to preſerve the <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> of <hi>that Body,</hi> (for this both the Fundamental <hi>Laws</hi> of <hi>Society,</hi> and the expreſs Precepts of <hi>Chriſtianity</hi> do require of every <hi>Member:</hi>) But now to make a <hi>Rent</hi> in, or <hi>ſeparate</hi> from any <hi>Part</hi> of the <hi>Body</hi> of <hi>Chriſt,</hi> with which we may lawfully communicate (and ſuch we now ſuppoſe the <hi>eſtabliſhed Aſſemblies</hi> of the <hi>Nation</hi> to be) is directly contrary to the preſerving the <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> of <hi>that Body:</hi> And therefore certainly ſuch a <hi>Rent</hi> or <hi>Separati<g ref="char:EOLhyphen"/>on</hi> muſt be unlawful. And if ſo, then it muſt be unlawful alſo to joyn with any Congregation of men among us that have made ſuch a <hi>Rent</hi> or <hi>Separation.</hi>
+            </p>
+            <p>So that, let our pretences be what they will, ſo long as the <hi>fixed Regular Aſſemblies</hi> of the <hi>Nation</hi> wherein we live, do truly belong to the <hi>Catholick Church,</hi> and we can lawfully joyn with them, it is certain we are bound ſo to do, and not to joyn with thoſe <hi>Congregations</hi> that have withdrawn themſelves from <hi>them;</hi> for to do this, would be to joyn in <hi>Society</hi> with <hi>Separatiſts,</hi> would be a partaking of their <hi>Sin,</hi> and a breach of the <hi>Apoſtle's</hi> Precept of <hi>Avoiding thoſe that cauſe Diviſions.</hi> Rom. 16. 17.</p>
+            <p>The <hi>third Propoſition</hi> is, <hi>That the being a</hi> Member <hi>of any</hi>
+               <pb n="12" facs="tcp:110686:9"/>Church, <hi>doth oblige a man to ſubmit to all the</hi> Laws <hi>and</hi> Con<g ref="char:EOLhyphen"/>ſtitutions <hi>of that</hi> Church.</p>
+            <p>This Propoſition is in the general ſo unqueſtionable, that no <hi>ſober</hi> man will deny it. And indeed, it is the <hi>Baſis</hi> upon which all <hi>Societies</hi> are founded, and by which they do ſub<g ref="char:EOLhyphen"/>ſiſt. For to ſuppoſe a <hi>Society,</hi> and yet to ſuppoſe the <hi>Mem<g ref="char:EOLhyphen"/>bers</hi> of it not under an Obligation to obey its Laws and Go<g ref="char:EOLhyphen"/>vernment, is to make Ropes of Sand, to ſuppoſe a <hi>Body</hi> without <hi>Sinews</hi> and <hi>Ligaments</hi> to hold its parts together.</p>
+            <p>So that all the queſtion here, is concerning the nature and extent of the <hi>Churches</hi> Power over her <hi>Members,</hi> how far, and in what inſtances ſhe hath <hi>Authority</hi> to oblige them. Which is a queſtion not difficult to be anſwered, if men would come to it without paſſion and prejudice.</p>
+            <p>For it muſt be acknowledged, in the firſt place, that the <hi>Church</hi> muſt, as all other <hi>Societies,</hi> be entruſted with at leaſt ſo much <hi>power</hi> over her <hi>Subjects,</hi> as is neceſſary for the ſe<g ref="char:EOLhyphen"/>curing her own <hi>Welfare</hi> and <hi>Preſervation:</hi> For to think o<g ref="char:EOLhyphen"/>therwiſe, is to ſuppoſe <hi>God</hi> to have founded a <hi>Church,</hi> and intended the <hi>Well-being</hi> and <hi>Continuance</hi> of it; which are things that every one muſt grant: And yet to ſuppoſe that he hath denied her the uſe of the <hi>Means</hi> without which that <hi>Well-being</hi> and <hi>Continuance</hi> cannot be attained; which is monſtrous and contradictious.</p>
+            <p>Furthermore it muſt be granted, that the <hi>Welfare</hi> and <hi>Preſervation</hi> of the <hi>Church</hi> cannot be ſecured but upon theſe two Suppoſitions. <hi>Firſt,</hi> That Proviſion be made for the <hi>due</hi> and <hi>orderly</hi> performance of the <hi>Worſhip</hi> of <hi>God. Secondly,</hi> That there be means of maintaining <hi>Peace</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> among its <hi>Members.</hi> This latter is neceſſary to the <hi>Welfare</hi> and <hi>Preſervation</hi> of a <hi>Church,</hi> as a <hi>Society,</hi> the former is neceſſa<g ref="char:EOLhyphen"/>ry to it as a <hi>Religious Society.</hi>
+            </p>
+            <p>Now then this being admitted, it follows in the general, that whatever <hi>Power</hi> over her <hi>Subjects</hi> is neceſſary in order
+<pb n="13" facs="tcp:110686:9"/>to either of theſe things, all that at leaſt muſt be ſuppoſed to be lodged in the <hi>Church,</hi> that is to ſay, in <hi>Thoſe</hi> that have the <hi>Government</hi> of it.</p>
+            <p>So that from hence it is plain, in the <hi>firſt</hi> place, that the <hi>Church</hi> hath power ſo far to reſtrain the exerciſe of her <hi>Sub<g ref="char:EOLhyphen"/>jects Liberty,</hi> as to oblige them to all ſuch Laws, Rules, Or<g ref="char:EOLhyphen"/>ders, and Ceremonies as She ſhall eſtabliſh for the more So<g ref="char:EOLhyphen"/>lemn, Regular, Decent, and convenient Adminiſtration of <hi>Religious Affairs.</hi> And if it be queſtioned whether her <hi>Ap<g ref="char:EOLhyphen"/>pointments</hi> do indeed conduce to that end, of that She her ſelf is to be the <hi>Judge;</hi> Her Members being no farther concern<g ref="char:EOLhyphen"/>ed therein, than only before they obey her <hi>Impoſitions</hi> to ſee that they be not repugnant to the known <hi>Laws</hi> of <hi>God.</hi> This Power the <hi>Church</hi> muſt be ſuppoſed to have, other<g ref="char:EOLhyphen"/>wiſe She will not be enabled to make Proviſion for the firſt thing whereon her <hi>Welfare</hi> doth depend, <hi>viz.</hi> the Perfor<g ref="char:EOLhyphen"/>mance of God's Worſhip and Service in a <hi>due</hi> and <hi>orderly</hi> manner.</p>
+            <p>Secondly, From hence alſo it is plain, that the <hi>Church</hi> muſt be furniſhed with a Power to <hi>end</hi> and <hi>determine</hi> Con<g ref="char:EOLhyphen"/>troverſies of <hi>Religion</hi> that ariſe among its <hi>Members:</hi> that is to ſay, to give ſuch an <hi>Authoritative</hi> deciſion of them, as that all <hi>Parties</hi> are bound to acquieſce in it: for without this ſhe would be defective in the <hi>ſecond</hi> thing required to her <hi>Welfare</hi> and <hi>Preſervation, viz.</hi> maintaining her ſelf in <hi>Peace</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nity.</hi>
+            </p>
+            <p>But here it may be taken notice, that this Power of <hi>ending Controverſies,</hi> which we aſcribe to the <hi>Church,</hi> doth not im<g ref="char:EOLhyphen"/>ply any <hi>Authority</hi> over our <hi>Judgments;</hi> or that in vertue thereof ſhe can oblige us to give an <hi>inward aſſent</hi> to her <hi>De<g ref="char:EOLhyphen"/>terminations,</hi> any further than ſhe gives us evidence for the <hi>Truth</hi> of them: (which is that extravagant Power the <hi>Church</hi> of <hi>Rome</hi> doth challenge to her ſelf) but only an <hi>Au<g ref="char:EOLhyphen"/>thority</hi> over our <hi>Practices,</hi> that ſhe can oblige us to ſubmit
+<pb n="14" facs="tcp:110686:10"/>ſo far to her <hi>Definitions,</hi> as not to <hi>act</hi> any thing contrary to them. A Power in the <hi>former ſenſe</hi> is not neceſſary to the <hi>Churches Peace;</hi> and the reaſon is, becauſe our <hi>Judgments</hi> and <hi>Opinions,</hi> ſo long as we keep them to our ſelves, can<g ref="char:EOLhyphen"/>not poſſibly cauſe any diſturbance in, or do any injury to <hi>Society.</hi> But a Power in the <hi>latter ſenſe</hi> is abſolutely neceſ<g ref="char:EOLhyphen"/>ſary; for if men may be allowed to vent and publiſh what ever <hi>fancies</hi> come into their heads, and the <hi>Church</hi> have no <hi>Authority</hi> to impoſe ſilence upon them, it cannot be avoid<g ref="char:EOLhyphen"/>ed but ſhe will be over-run with <hi>Hereſies,</hi> and embroiled in infinite <hi>Quarrels</hi> and <hi>Controverſies,</hi> to the deſtruction of her publick Peace.</p>
+            <p>The <hi>fourth Propoſition</hi> is, <hi>That we can have no juſt cauſe of withdrawing our</hi> Communion <hi>from the</hi> Church <hi>whereof we are</hi> Members, <hi>but when we cannot communicate with it without the</hi> Commiſſion <hi>of a</hi> Sin.</p>
+            <p>For if we are bound to Communicate with the <hi>Church</hi> when we can lawfully do ſo, as hath been before proved; it is plain we are bound ſo long to <hi>continue</hi> our Communi<g ref="char:EOLhyphen"/>on with the <hi>Church,</hi> till it be unlawful to continue in it any longer: But it cannot be unlawful to continue in her Com<g ref="char:EOLhyphen"/>munion, till ſhe require ſomething as a Condition of her Communion that is a <hi>Sin.</hi>
+            </p>
+            <p>So that there are but <hi>Two</hi> caſes, wherein it can be law<g ref="char:EOLhyphen"/>ful to <hi>withdraw</hi> our <hi>Communion</hi> from a <hi>Church,</hi> becauſe there are but two caſes wherein <hi>Communion</hi> with her can be <hi>ſin<g ref="char:EOLhyphen"/>ful.</hi> One is, when the <hi>Church</hi> requires of us as a <hi>Condition</hi> of her <hi>Communion,</hi> an <hi>Acknowledgement</hi> and <hi>Profeſſion</hi> of that for a <hi>Truth,</hi> which we know to be an <hi>Error.</hi> The other is, when the <hi>Church</hi> requires of us as a Condition of her Com<g ref="char:EOLhyphen"/>munion, the joyning with her in ſome Practices, which we know to be againſt the <hi>Laws</hi> of <hi>God.</hi> In theſe two Caſes to withdraw our Obedience to the <hi>Church</hi> is ſo far from being a <hi>Sin,</hi> that it is a neceſſary <hi>Duty;</hi> becauſe we have an obli<g ref="char:EOLhyphen"/>gation
+<pb n="15" facs="tcp:110686:10"/>to the <hi>Laws</hi> of God antecedent to that we have to <hi>thoſe</hi> of the <hi>Church;</hi> and we are bound to obey <hi>theſe</hi> no fur<g ref="char:EOLhyphen"/>ther than they are conſonant or agreeable to <hi>thoſe.</hi>
+            </p>
+            <p>But now from this diſcourſe it will appear how inſuffi<g ref="char:EOLhyphen"/>cient thoſe Cauſes, how unwarrantable thoſe Grounds are, upon which many among us have proceeded to <hi>Separation</hi> from our <hi>Church.</hi>
+            </p>
+            <p>For, <hi>firſt,</hi> If what I have laid down be true, it cannot be true that <hi>unſcriptural Impoſitions</hi> can be a warrantable cauſe of <hi>ſeparation</hi> from a <hi>Church;</hi> ſuppoſing that by <hi>
+                  <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>ſcriptural</hi> be meant no more than only what is neither <hi>Com<g ref="char:EOLhyphen"/>manded</hi> nor <hi>Forbid</hi> in the Sciptures. For the Actions requi<g ref="char:EOLhyphen"/>red by theſe <hi>
+                  <g ref="char:V">Ʋ</g>nſcriptural Impoſitions,</hi> are either in themſelves <hi>lawful</hi> to be done, or <hi>not lawful</hi> to be done. If they be in themſelves <hi>unlawful</hi> to be done, then they do not fall under that notion of <hi>
+                  <g ref="char:V">Ʋ</g>nſcriptural</hi> we here ſpeak of; they are down<g ref="char:EOLhyphen"/>right <hi>Sins,</hi> and ſo either <hi>particularly</hi> or in the <hi>general,</hi> forbid in the <hi>Scripture.</hi> If they be in themſelves <hi>lawful</hi> to be done, then it cannot be imagined how their being <hi>commanded</hi> can make them <hi>unlawful:</hi> So that in this caſe, there is no <hi>Sin</hi> in yielding obedience to the <hi>Church,</hi> and conſequently no cauſe of withdrawing our Communion from it.</p>
+            <p>Nor <hi>ſecondly</hi> can it be true, that the Church requiring from us any <hi>doubtful</hi> or <hi>ſuſpected</hi> practices as Conditions of her Communion, is a juſt cauſe of <hi>Separation:</hi> for we muſt have at leaſt as much certainty of the <hi>unlawfulneſs</hi> of the <hi>actions</hi> enjoyned, as we have of our <hi>Obligation</hi> to the <hi>Authority</hi> that enjoyns them, before we withdraw our <hi>Obedience</hi> to it, otherwiſe we do not proceed upon ſafe grounds; but now we are <hi>abſolutely certain,</hi> that God hath commanded us to o<g ref="char:EOLhyphen"/>bey them that have the rule over us, but we are not <hi>certain</hi> that the <hi>actions</hi> we here ſpeak of, are any where <hi>forbid</hi> by him; for if we were, they would be no longer <hi>doubtful</hi> or <hi>ſuſpected,</hi> they would be <hi>certain Sins:</hi> ſo that if we will fol<g ref="char:EOLhyphen"/>low
+<pb n="16" facs="tcp:110686:11"/>the ſurer ſide, as all Chriſtians in theſe caſes are bound to do, we muſt continue our <hi>Obedience</hi> to the <hi>Church,</hi> not<g ref="char:EOLhyphen"/>withſtanding we <hi>ſuſpect</hi> or <hi>doubt</hi> the lawfulneſs of her Com<g ref="char:EOLhyphen"/>mands.</p>
+            <p>Neither <hi>thirdly</hi> can it be true, that <hi>Errours</hi> in a <hi>Church</hi> as to matter of <hi>Doctrines,</hi> or <hi>Corruptions</hi> as to matter of <hi>Pra<g ref="char:EOLhyphen"/>ctice,</hi> ſo long as thoſe <hi>Errours</hi> and <hi>Corruptions</hi> are only <hi>ſuf<g ref="char:EOLhyphen"/>fered,</hi> but not <hi>impoſed,</hi> can be a ſufficient cauſe of <hi>Separation;</hi> the reaſon is, becauſe theſe things are not <hi>Sins</hi> in us, ſo long as we do not joyn with the <hi>Church</hi> in them. So that ſo long as we can Communicate with a <hi>Church,</hi> without ei<g ref="char:EOLhyphen"/>ther profeſſing her <hi>Errours,</hi> or partaking in her <hi>ſinful Pra<g ref="char:EOLhyphen"/>ctices,</hi> as in the preſent caſe it is ſuppoſed we may do; ſo long we are bound upon the <hi>Principle</hi> before laid down not to <hi>ſeparate</hi> from her.</p>
+            <p>Neither in the <hi>fourth</hi> and laſt place, is the enjoying a more profitable <hi>Miniſtry,</hi> or living under a more pure <hi>Diſci<g ref="char:EOLhyphen"/>pline</hi> in another <hi>Church,</hi> a juſt cauſe of forſaking the <hi>Commu<g ref="char:EOLhyphen"/>nion</hi> of that whereof we are now <hi>Members.</hi> The reaſon is, becauſe we are not to commit the leaſt <hi>crime</hi> for the attain<g ref="char:EOLhyphen"/>ing the greateſt good in the World: Now it is a <hi>crime</hi> to forſake the <hi>Communion</hi> of the <hi>Church</hi> whereof we are <hi>Mem<g ref="char:EOLhyphen"/>bers,</hi> ſo long as her <hi>Communion</hi> is not <hi>ſinful:</hi> But the enjoy<g ref="char:EOLhyphen"/>ment of a <hi>leſs profitable Miniſtry,</hi> or a <hi>leſs pure Diſcipline</hi> doth not make her <hi>Communion ſinful;</hi> therefore the enjoyment of a <hi>more profitable Miniſtry,</hi> or a <hi>more pure Diſcipline,</hi> cannot make a <hi>Separation</hi> from her <hi>lawful.</hi>
+            </p>
+            <p>The <hi>fifth</hi> and laſt <hi>Propoſition</hi> is, <hi>That though we have a juſt cauſe to refuſe Communion with the</hi> Church <hi>whereof we are</hi> Members <hi>in ſome inſtances, yet we are not therefore to proceed to ſo</hi> total <hi>a</hi> Separation <hi>from it as to erect</hi> New Churches <hi>in con<g ref="char:EOLhyphen"/>tradiſtinction to it, or to joyn with thoſe that do.</hi>
+            </p>
+            <p>The reaſon is clear from the foregoing Principles, <hi>viz.</hi> be<g ref="char:EOLhyphen"/>cauſe we are bound to <hi>obey</hi> as far as we can, and where we
+<pb n="17" facs="tcp:110686:11"/>cannot, to <hi>ſuffer;</hi> but at no hand to diſturb the <hi>Peace,</hi> or break the <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> of the <hi>Church.</hi>
+            </p>
+            <p>Though we cannot comply with all that the <hi>Church</hi> requires of us, yet ſtill we muſt joyn with <hi>Her</hi> in thoſe o<g ref="char:EOLhyphen"/>ther things where we lawfully can.</p>
+            <p>Nay, though the <hi>Church</hi> ſhould require thoſe things as <hi>Conditions</hi> of her <hi>Communion</hi> ſo that unleſs we conform to them, we cannot at all communicate with her; yet ſtill there is a <hi>Paſſive Obedience</hi> due from us: We muſt ſit ſtill and ſuffer, and not make a Rent in the <hi>Church</hi> by ſetting up one <hi>Altar</hi> againſt another.</p>
+            <p>This is like the ſetting up a new and a diſtinct <hi>Govern<g ref="char:EOLhyphen"/>ment</hi> in the Bowels of the <hi>State.</hi>
+            </p>
+            <p>Nothing can juſtify ſuch a degree of departure as this, but only one thing; to wit, ſo great and general a <hi>Corrup<g ref="char:EOLhyphen"/>tion</hi> of the <hi>Church,</hi> both in <hi>Doctrine</hi> and <hi>Practice,</hi> that the <hi>Salvation</hi> of all that communicate with her, is thereby en<g ref="char:EOLhyphen"/>dangered: Which though it be the condition of the <hi>Mem<g ref="char:EOLhyphen"/>bers</hi> of the preſent <hi>Church</hi> of <hi>Rome,</hi> yet I dare ſay, ſew a<g ref="char:EOLhyphen"/>mong us will affirm to be the caſe of them that communi<g ref="char:EOLhyphen"/>cate with the <hi>Church</hi> of <hi>England.</hi>
+            </p>
+            <p>Thus have I as briefly as I could repreſented to you the Particulars of that Duty we owe to our <hi>common Mother,</hi> in the <hi>preſervation</hi> of her <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> and <hi>Communion.</hi> And I hope, I have not been ſo zealous for <hi>Peace</hi> as to have been at all injurious to <hi>Truth.</hi>
+            </p>
+            <p>I am confident I have ſaid nothing but what is very agree<g ref="char:EOLhyphen"/>able to <hi>Scripture</hi> and <hi>Reaſon,</hi> and the ſenſe of the Beſt and Ancienteſt <hi>Chriſtians.</hi> And I am certain, I have not in<g ref="char:EOLhyphen"/>trenched upon any of thoſe Grounds upon which our <hi>Ance<g ref="char:EOLhyphen"/>ſtors</hi> proceeded to the <hi>Reformation</hi> of <hi>Religion</hi> among us. And for moſt of the things here delivered, we have alſo the <hi>ſuffrage</hi> of ſeveral, and thoſe the moſt learned and moderate of our <hi>diſſenting Brethren.</hi>
+            </p>
+            <pb n="18" facs="tcp:110686:12"/>
+            <p> And now if after this any one be offended, as indeed theſe kind of diſcourſes are ſeldom very acceptable; all I can ſay, is this, That the <hi>Truths</hi> here delivered, are really of ſo great importance to <hi>Religion</hi> and the <hi>publick Peace,</hi> that they ought not to be diſſembled or ſuppreſſed, for any <hi>bad reception</hi> they may meet with from <hi>ſome men:</hi> but as for the <hi>manner</hi> of delivering them, I have taken all the care I could, not to give offence to any.</p>
+            <p>I now paſs on to the <hi>ſecond</hi> part of my <hi>Task</hi> upon this <hi>Head,</hi> which is to conſider the <hi>Duty</hi> recommended in the <hi>Text,</hi> with relation to <hi>particular Chriſtians</hi> our <hi>Brethren.</hi>
+            </p>
+            <p>And here my buſineſs is to direct you to the <hi>Purſuit</hi> of <hi>thoſe things that make for Peace;</hi> as <hi>Peace</hi> ſignifies mutual <hi>Love</hi> and <hi>Charity</hi> in oppoſition to <hi>Strife</hi> and <hi>Bitterneſs</hi> and <hi>Contentions.</hi>
+            </p>
+            <p>The things that make for <hi>Peace,</hi> in this ſenſe, are more eſpecially theſe that follow, which I ſhall deliver by way of <hi>Rules</hi> and <hi>Advices.</hi>
+            </p>
+            <p>The <hi>firſt Rule</hi> is to diſtinguiſh carefully between matters of <hi>Faith,</hi> and matters of <hi>Opinion;</hi> and as to theſe latter, to be willing that every one ſhould enjoy the liberty of judg<g ref="char:EOLhyphen"/>ing for himſelf.</p>
+            <p>This is one thing that would help very much to the ex<g ref="char:EOLhyphen"/>tinguiſhing of thoſe unnatural <hi>Heats</hi> and <hi>Animoſities,</hi> which have long been the Reproach of Chriſtians. If men would ſet no greater value upon their <hi>Notions</hi> and <hi>Opinions</hi> than they do deſerve; if they would make a difference between <hi>neceſſary</hi> points, and thoſe that are not ſo: and in thoſe things that are not <hi>neceſſary,</hi> would not rigorouſly tie up o<g ref="char:EOLhyphen"/>thers to their meaſures, but would allow every man to a<g ref="char:EOLhyphen"/>bound in his own ſenſe, ſo long as the <hi>Churches Peace</hi> is not hereby injured, we ſhould not have ſo many bitter Quarrels and Heart-burnings among us. But alas, whileſt every one will frame a <hi>Syſteme</hi> of <hi>Divinity</hi> of his own head,
+<pb n="19" facs="tcp:110686:12"/>and every puny <hi>Notion</hi> of that <hi>Syſteme,</hi> muſt be <hi>Chriſtn'd</hi> by the name of an <hi>Article</hi> of <hi>Faith;</hi> and every man that doth not believe juſt as he doth, muſt ſtraight be a <hi>Here<g ref="char:EOLhyphen"/>tick</hi> for not doing ſo: How can it be expected but we muſt wrangle eternally?</p>
+            <p>It were heartily to be wiſhed, that Chriſtians would conſider, that the <hi>Articles</hi> of <hi>Faith,</hi> thoſe things that God hath made neceſſary by every one to be believed in order to his <hi>Salvation,</hi> are but very <hi>few,</hi> and they are all of them ſo <hi>plainly</hi> and <hi>clearly</hi> ſet down in the <hi>Scripture,</hi> that it is im<g ref="char:EOLhyphen"/>poſſible for any ſincere honeſt-minded man to miſs of the <hi>true ſenſe</hi> of them. And they have further this Badge to di<g ref="char:EOLhyphen"/>ſtinguiſh them from all other <hi>Truths,</hi> that they have an im<g ref="char:EOLhyphen"/>mediate influence upon mens <hi>Lives,</hi> a direct Tendency to make men <hi>Better;</hi> whereas moſt of thoſe things that make the matter of our Controverſies, and about which we make ſuch a noiſe and clamour, and for which we ſo bitterly cenſure and anathematize one another, are quite of another nature: They are neither ſo <hi>clearly revealed</hi> or <hi>propounded</hi> in the Scripture, but that even good men through the great difference of their Parts, Learning and Education, may after their beſt endeavours vary in their ſentiments about them. Nor do they at all concern a <hi>Chriſtian Life,</hi> but are matters of pure <hi>notion</hi> and <hi>ſpeculation.</hi> So that it cannot with any rea<g ref="char:EOLhyphen"/>ſon be pretended that they are <hi>points</hi> upon which Mens <hi>Sal<g ref="char:EOLhyphen"/>vation</hi> doth depend. It cannot be thought that <hi>God</hi> will be offended with any man for his <hi>Ignorance</hi> or <hi>Miſtakes</hi> con<g ref="char:EOLhyphen"/>cerning them. And, if not, if a man may be a <hi>Good Chriſti<g ref="char:EOLhyphen"/>an,</hi> and go to Heaven whether he holds the right or the wrong ſide in theſe matters; for God's ſake, Why ſhould we be <hi>angry</hi> with any one for having other Opinions about them than we have? Why ſhould we not rather permit men to uſe their <hi>
+                  <g ref="char:V">Ʋ</g>nderſtandings</hi> as well as they can, and where they fail of the <hi>Truth,</hi> to bear with them, as <hi>God</hi> himſelf without
+<pb n="20" facs="tcp:110686:13"/>queſtion will; than by ſtickling for every impertinent un<g ref="char:EOLhyphen"/>neceſſary <hi>Truth,</hi> deſtroy that <hi>Peace,</hi> and <hi>Love,</hi> and <hi>Amity</hi> that ought to be among <hi>Chriſtians.</hi>
+            </p>
+            <p>The <hi>ſecond</hi> thing I would recommend, is a great <hi>ſimplici<g ref="char:EOLhyphen"/>ty</hi> and <hi>purity</hi> of <hi>Intention</hi> in the purſuit of <hi>Truth;</hi> and at no hand to let <hi>paſſion</hi> or <hi>intereſt,</hi> or any <hi>ſelf-end</hi> be ingredient in<g ref="char:EOLhyphen"/>to our <hi>Religion.</hi>
+            </p>
+            <p>The practice of this, would not more conduce to the diſcovery of <hi>Truth,</hi> than it would to the promoting of <hi>Peace.</hi> For it is eaſie to obſerve, that it is not always a pure con<g ref="char:EOLhyphen"/>cernment for the Truth, in the points in Controverſie, that makes us ſo zealous, ſo fierce, and ſo obſtinate in our Di<g ref="char:EOLhyphen"/>ſputes for, or againſt them; but ſomething of which that is only the <hi>Mask</hi> and <hi>Pretence,</hi> ſome <hi>By-ends</hi> that muſt be ſerved, ſome <hi>Secular Intereſt</hi> that we have eſpouſed, which muſt be carried on.</p>
+            <p>We have either engaged our ſelves to ſome <hi>Party,</hi> and ſo its Intereſts right or wrong muſt be promoted: or we have taken up an opinion inconſiderately at the firſt, and appear<g ref="char:EOLhyphen"/>ed in the favour of it, and afterward our own credit doth oblige us to defend it: or we have received ſome <hi>ſlight</hi> or <hi>diſappointment</hi> from the Men of <hi>one way,</hi> and ſo in pure pet and revenge, we paſs over to their Adverſaries. Or it is for our gain and advantage, that the Differences among us be ſtill kept afoot; or we deſire to get our ſelves a name by ſome great <hi>Atchievments</hi> in the Noble <hi>Science</hi> of <hi>Contro<g ref="char:EOLhyphen"/>verſies;</hi> or we are poſſeſſed with a ſpirit of Contradiction; or we delight in Novelties; or we love to be ſingular.</p>
+            <p>Theſe are the things that too often both give birth to our Controverſies and alſo nouriſh and foment them.</p>
+            <p>If we would but caſt theſe <hi>Beams</hi> out of our eyes, we ſhould both ſee more <hi>clearly,</hi> and certainly live more <hi>peace<g ref="char:EOLhyphen"/>ably.</hi> But whileſt we purſue <hi>baſe</hi> and <hi>ſordid ends</hi> un<g ref="char:EOLhyphen"/>der the pretence of maintaining <hi>Truth,</hi> we ſhall always be in <hi>error,</hi> and always in <hi>contention.</hi>
+            </p>
+            <pb n="21" facs="tcp:110686:13"/>
+            <p> Let us therefore quit our ſelves of all our pre-poſſeſſions; let us mortify all our <hi>Pride</hi> and <hi>Vain-glory,</hi> our <hi>Paſſion</hi> and <hi>Emulation,</hi> our <hi>Covetouſneſs</hi> and <hi>Revenge;</hi> and bring nothing in the world to our <hi>Debates</hi> about Religion, but only the <hi>pure love</hi> of <hi>Truth:</hi> and then our Controverſies will not be ſo long; and they will be more calmly and peace<g ref="char:EOLhyphen"/>ably managed, and they will redound to the greater good of all <hi>Parties.</hi>
+            </p>
+            <p>And this I dare ſay further to encourage you to labour after this temper of mind, That he that comes thus qua<g ref="char:EOLhyphen"/>lified to the ſtudy of <hi>Religion,</hi> though he may not have the luck always to light on the <hi>Truth,</hi> yet with all his <hi>er<g ref="char:EOLhyphen"/>rors,</hi> be they what they will, he is more acceptable to God, than the Man that hath <hi>Truth</hi> on his ſide, yet takes it up or maintains it to ſerve a turn. He that believes a <hi>Falſe<g ref="char:EOLhyphen"/>hood,</hi> after he hath uſed his ſincere endeavours to find the <hi>Truth,</hi> is not half ſo much a <hi>Heretick,</hi> as he that profeſſeth a <hi>Truth</hi> out of <hi>evil Principles,</hi> and proſtituteth it to <hi>unwor<g ref="char:EOLhyphen"/>thy ends.</hi>
+            </p>
+            <p>The third Rule is, Never to quarrel about <hi>Words</hi> and <hi>Phraſes,</hi> but ſo long as other men mean much what the ſame that we do, let us be content though they have not the luck to expreſs themſelves ſo well.</p>
+            <p>I do not know how it comes to paſs, whether through too much heat and eagerneſs of diſputing, that we do not mind one anothers <hi>Senſe;</hi> or, whether through too much love to our own manner of <hi>Thinking</hi> or <hi>Speaking,</hi> that we will not endure any thing but what is conveyed to us in our own <hi>Methods:</hi> But, really, it often happens that moſt bit<g ref="char:EOLhyphen"/>ter Quarrels do commence, not ſo much from the different <hi>Senſe</hi> of the contending Parties, concerning the things they contend about, as from their different <hi>Terms</hi> expreſſing the ſame <hi>Senſe,</hi> and the different <hi>Grounds</hi> they proceed upon, or <hi>Arguments</hi> they make uſe of for the proof of it.</p>
+            <pb n="22" facs="tcp:110686:14"/>
+            <p> For my part, I verily believe that this is the Caſe of ſe<g ref="char:EOLhyphen"/>veral of thoſe <hi>Diſputes,</hi> in which we <hi>Proteſtants</hi> do often en<g ref="char:EOLhyphen"/>gage at this day. I do not think, in many points, our <hi>Dif<g ref="char:EOLhyphen"/>ferences</hi> are near ſo wide as they are ſometimes repreſented, but that they might eaſily be made up with a little allow<g ref="char:EOLhyphen"/>ance to mens <hi>Words</hi> and <hi>Phraſes,</hi> and the different <hi>Methods</hi> of deducing their Notions.</p>
+            <p>It would be perhaps no hard matter to make this appear in thoſe <hi>Controverſies</hi> that are ſo much agitated among us concerning <hi>Faith</hi> and <hi>Juſtification,</hi> and the <hi>neceſſity of good works to Salvation,</hi> and <hi>Imputed Righteouſneſs,</hi> and the <hi>dif<g ref="char:EOLhyphen"/>ference between Virtue and Grace;</hi> with ſome others, if this were a fit place for it. The difference that is among us as to theſe Points, is poſſibly not much greater than this, that ſome men in theſe matters ſpeak more clearly and fully; others more imperfectly and obſcurely. Some men convey their ſenſe in plain and proper words; others delight in <hi>Me<g ref="char:EOLhyphen"/>taphors,</hi> and do perhaps too far extend the <hi>Figurative</hi> ex<g ref="char:EOLhyphen"/>preſſions of <hi>Scripture:</hi> Some reaſon more cloſely and upon more certain <hi>Principles;</hi> others poſſibly may proceed upon weaker grounds, and <hi>miſapply Texts</hi> of Scripture, and diſ<g ref="char:EOLhyphen"/>courſe more looſely. But both <hi>Parties</hi> (eſpecially the more moderate of both) ſeem to drive at much what the ſame thing, though by different ways, as appears from this, that being interrogated concerning the <hi>Conſequences</hi> of their ſeve<g ref="char:EOLhyphen"/>ral <hi>Opinions,</hi> they generally agree in admitting or <hi>rejecting</hi> the ſame.</p>
+            <p>But <hi>fourthly,</hi> another thing that would make for peace is this; never to charge upon men the <hi>Conſequences</hi> of their <hi>Opinions</hi> when they expreſly diſown them.</p>
+            <p>This is another thing that doth hugely tend to widen our Differences, and to exaſperate mens ſpirits one againſt ano<g ref="char:EOLhyphen"/>ther; when having examined ſome <hi>Opinion</hi> of a <hi>Man,</hi> or <hi>Party</hi> of <hi>Men,</hi> and finding very great <hi>abſurdities</hi> and evil <hi>con<g ref="char:EOLhyphen"/>ſequences</hi>
+               <pb n="23" facs="tcp:110686:14"/>neceſſarily to ſlow from it, we preſently throw all thoſe into the <hi>diſh</hi> of them that hold the <hi>Opinion,</hi> as if they could not own the <hi>one,</hi> but they muſt neceſſarily own the <hi>other:</hi> whereas indeed, the men we thus charge, may be ſo innocent in this matter, that they do not in the leaſt dream of ſuch <hi>Conſequences;</hi> or if they did, they would be ſo far from <hi>owning</hi> them, that they would abhor the <hi>Opinion</hi> for their ſakes.</p>
+            <p>To give you an inſtance or two in this matter: It is a Doctrine maintained by ſome, That <hi>God's Will is the Rule of Juſtice;</hi> or that <hi>every thing is therefore juſt or good, becauſe God wills it.</hi> Thoſe that are concerned to oppoſe this Do<g ref="char:EOLhyphen"/>ctrine, do contend that if this <hi>Doctrine</hi> be true, it will neceſ<g ref="char:EOLhyphen"/>ſarily follow, that no man can have any certainty of the <hi>Truth</hi> of any one <hi>Propoſition</hi> that God hath revealed in Scrip<g ref="char:EOLhyphen"/>ture. Granting now that this can by juſt conſequence be made out, yet I dare ſay, thoſe that hold the aforeſaid <hi>Do<g ref="char:EOLhyphen"/>ctrine</hi> would be very angry, and had good reaſon ſo to be, if they were told that they did not, no, nor could not, upon their <hi>Principles</hi> certainly believe the <hi>Scripture.</hi>
+            </p>
+            <p>Some Men think that they can with demonſtrative evi<g ref="char:EOLhyphen"/>dence make out, that the <hi>Doctrine</hi> of <hi>God's irreſpective De<g ref="char:EOLhyphen"/>crees,</hi> doth in its Conſequences overthrow the whole <hi>Goſpel,</hi> that it doth deſtroy the nature of <hi>Rewards</hi> and <hi>Puniſhments,</hi> cuts the very <hi>Sinews</hi> of mens endeavours after virtue; makes all <hi>Laws, Promiſes, Exhortations</hi> perfectly idle and inſigni<g ref="char:EOLhyphen"/>ficant things; and renders God the moſt <hi>unlovely Being</hi> in the world. Now ſuppoſing all this to be true, yet it would be a moſt unjuſt and uncharitable thing to affirm of any that believe that Doctrine (many of whom are certainly pious and good men) that they do maintain any ſuch impious and blaſphemous Opinions as thoſe that are now mentioned.</p>
+            <p>The ſum of all is, that a man may believe a <hi>Propoſition,</hi> and not believe all that follows from it: not, but that all
+<pb n="24" facs="tcp:110686:15"/>the <hi>deductions</hi> from a <hi>Propoſition</hi> are equally true, and equal<g ref="char:EOLhyphen"/>ly credible with the <hi>Propoſition</hi> from whence they are de<g ref="char:EOLhyphen"/>duced: But a man may not ſo clearly ſee through the <hi>Pro<g ref="char:EOLhyphen"/>poſition</hi> as to diſcern that ſuch <hi>Conſequences</hi> are really deduci<g ref="char:EOLhyphen"/>ble from it: So that we are at no hand to charge them upon him, unleſs he do explicitly own them.</p>
+            <p>If this Rule was obſerved, our Differences would not make ſo great a noiſe, nor would the <hi>Errors</hi> and <hi>Heterodoxies</hi> maintained among us appear ſo monſtrous and extravagant; and we ſhould ſpare a great many hard words and odious appellations, which we now too prodigally beſtow upon thoſe that differ from us.</p>
+            <p>The <hi>fifth</hi> Rule is, to abſtract mens <hi>Perſons</hi> from their <hi>Opi<g ref="char:EOLhyphen"/>nions;</hi> and in examining or oppoſing <hi>theſe,</hi> never to make any reflections upon <hi>thoſe.</hi>
+            </p>
+            <p>This is a thing ſo highly reaſonable, that methinks no pretender to ingenuity ſhould ever need to be called upon to obſerve it. For it ſeems very abſurd and ridiculous in any <hi>Argument</hi> to meddle with that, that nothing concerns the <hi>Queſtion.</hi> But what do <hi>Perſonal Reflections</hi> concern the <hi>Cauſe</hi> of <hi>Religion?</hi> what ever it may be to the <hi>Reputation</hi> of an <hi>Opinion,</hi> I am ſure it is nothing to the <hi>Truth</hi> of it, that ſuch or ſuch a man holds it.</p>
+            <p>And truly, if men would leave this impertinence, we might hope for a better iſſue of our <hi>Religious Debates:</hi> but whileſt men will forſake the <hi>Merits</hi> of the <hi>Cauſe,</hi> and un<g ref="char:EOLhyphen"/>manly fall to railing, and diſparaging Mens <hi>Perſons,</hi> and ſcraping together all the ill that can be ſaid of them, they blow the Coals of Contention, they ſo imbitter and enve<g ref="char:EOLhyphen"/>nom the Diſpute, that it rankles into incurable diſtaſts and heart-burnings.</p>
+            <p>Chriſtians would do well to conſider, that theſe mean arts of expoſing Mens <hi>Perſons</hi> to diſcredit their <hi>Opinions,</hi> are very much unworthy the <hi>Dignity</hi> of their <hi>Profeſſion,</hi>
+               <pb n="25" facs="tcp:110686:15"/>and moſt of all miſ-becoming the <hi>Sacredneſs</hi> and <hi>Venerable<g ref="char:EOLhyphen"/>neſs</hi> of the <hi>Truth</hi> they contend for. And beſides, no Cauſe ſtands in need of them, but ſuch an one as is extremely baf<g ref="char:EOLhyphen"/>fled and deſperate; and even then they are the worſt Argu<g ref="char:EOLhyphen"/>ments in the world to ſupport it: For quick-ſighted men will eaſily ſee through the Duſt we endeavour to raiſe; and thoſe that are duller will be apt to ſuſpect from our being ſo angry and ſo waſpiſh, that we have but a bad matter to manage.</p>
+            <p>We ſhould conſider that Mens <hi>Perſons</hi> are <hi>Sacred</hi> things, that whatever power we have to judge of their <hi>Opinions,</hi> we have no authority to judge or cenſure <hi>Them.</hi> That to bring <hi>Them</hi> upon the Stage, and there throw dirt on them, is highly rude and uncivil, and an affront to <hi>Human Socie<g ref="char:EOLhyphen"/>ty,</hi> and the moſt contrary thing in the world to <hi>Chriſtian Charity,</hi> which is ſo far from enduring Reproaches and evil Speaking, that it obliges us to cover as much as we can all the <hi>Faults,</hi> and even the very <hi>Indiſcretions</hi> of others.</p>
+            <p>The <hi>ſixth</hi> and laſt thing I ſhall recommend to you as an Expedient of <hi>Peace,</hi> is a vigorous purſuit of <hi>Holineſs.</hi>
+            </p>
+            <p>Do but ſeriouſly ſet your ſelves to be <hi>good:</hi> Do but get your <hi>Hearts</hi> deeply affected with Religion as well as your <hi>Heads,</hi> and then there is no fear but you will be all the <hi>Sons of Peace.</hi>
+            </p>
+            <p>We may talk what we will; but really it is our not <hi>Pra<g ref="char:EOLhyphen"/>ctiſing</hi> our <hi>Religion</hi> that makes us ſo <hi>Contentious</hi> and <hi>Diſpu<g ref="char:EOLhyphen"/>tatious</hi> about it. It is our <hi>Emptineſs</hi> of the <hi>Divine Life,</hi> that makes us ſo <hi>full</hi> of Speculation and Controverſie: was but <hi>That</hi> once firmly rooted in us, theſe <hi>Weeds</hi> and <hi>Excre<g ref="char:EOLhyphen"/>ſcencies</hi> of <hi>Religion</hi> would preſently dry up and wither; we ſhould loath any longer to feed upon ſuch <hi>Husks,</hi> after we once came to have a Reliſh of that <hi>Bread.</hi>
+            </p>
+            <p>Ah! how little ſatisfaction can all our pretty <hi>Notions</hi> and fine-ſpun <hi>Controverſies</hi> yield to a Soul that truly hun<g ref="char:EOLhyphen"/>gers
+<pb n="26" facs="tcp:110686:16"/>and thirſts after Righteouſneſs? How pitifully, flatly and inſipidly will they taſte, in compariſon of the Divine entertainments of the <hi>Spiritual</hi> Life.</p>
+            <p>Were we but ſeriouſly taken up with the <hi>Subſtantials</hi> of our <hi>Religion,</hi> we ſhould not have leiſure for the <hi>Talking Diſputing Divinity;</hi> we ſhould have greater matters to take up our thoughts, and more profitable Arguments to furniſh out our Diſcourſes. So long as we could buſy our ſelves in working out our <hi>Salvation,</hi> and furthering the <hi>Salvation</hi> of others, we ſhould think it but a mean Employment to ſpend our time in ſpinning <hi>fine Nets</hi> for the catching of <hi>Flies.</hi>
+            </p>
+            <p>Beſides this <hi>Divine Life,</hi> if it once took place in us, would ſtrangely dilate and enlarge our hearts in <hi>Charity</hi> towards our <hi>Brethren;</hi> it would make us open our arms wide to the whole Creation; it would perfectly work out of us all that Peeviſhneſs and Sowrneſs, and Penuriouſneſs of ſpirit, which we do too often contract by being addicted to a <hi>Sect,</hi> and would make us Sweet and Benign, and Obliging, and ready to receive and embrace all Conditions of men. In a word, it would quite ſwallow up all <hi>Diſtinctions</hi> of <hi>Parties;</hi> and what ever did but bear upon it the <hi>Image</hi> of <hi>God</hi> and the <hi>Superſcription</hi> of the Holy <hi>Jeſus,</hi> would need no other Com<g ref="char:EOLhyphen"/>mendatories to our Affection, but would upon that alone account be infinitely dear and precious to us.</p>
+            <p>Let us all therefore earneſtly contend after this Divine Principle of <hi>Holineſs;</hi> let us bring down <hi>Religion</hi> from our <hi>Heads</hi> to our <hi>Hearts;</hi> from Speculation to Practice: Let us make it our buſineſs heartily to love God and do his will, and then we may hope to ſee <hi>Peace</hi> in our days.</p>
+            <p>This, this is that that will reſtore to the World the Gold<g ref="char:EOLhyphen"/>en Age of <hi>Primitive Chriſtianity,</hi> when the <hi>Love</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> of the Diſciples of Jeſus was ſo conſpicuous and remarkable, that it became into a <hi>Proverb, See how the Chriſtians love one another.</hi> This, this is that that will bring in the Accom<g ref="char:EOLhyphen"/>pliſhment
+<pb n="27" facs="tcp:110686:16"/>of all thoſe glorious <hi>Promiſes</hi> of <hi>Peace</hi> and <hi>Tran<g ref="char:EOLhyphen"/>quillity</hi> that <hi>Chriſt</hi> hath made to his <hi>Church:</hi> Then ſhall the <hi>Wolf</hi> dwell with the <hi>Lamb,</hi> and the <hi>Leopard</hi> lie down with the <hi>Kid:</hi> Then ſhall not <hi>Ephraim</hi> envy <hi>Judah,</hi> nor <hi>Judah</hi> vex <hi>Ephraim;</hi> but we ſhall turn our <hi>Swords</hi> into <hi>Plough<g ref="char:EOLhyphen"/>ſhares,</hi> and our <hi>Spears</hi> into <hi>Pruning-hooks;</hi> and there will be no more conſuming or devouring in all God's Holy Moun<g ref="char:EOLhyphen"/>tain.</p>
+            <p>I ſhould now proceed to the ſecond general Point in my propoſed Method of handling this Text, <hi>viz.</hi> To ſet before you the very great <hi>Engagements</hi> and <hi>Obligations</hi> we have up<g ref="char:EOLhyphen"/>on us to follow after the Things that make for Peace; and that,
+<list>
+                  <item>1. From the <hi>Nature</hi> and <hi>Contrivance</hi> of our <hi>Religion.</hi>
+                  </item>
+                  <item>2. From the great weight the <hi>Scripture</hi> lays upon this <hi>Duty.</hi>
+                  </item>
+                  <item>3. From the great <hi>
+                        <g ref="char:V">Ʋ</g>nreaſonableneſs</hi> of our Religious <hi>Dif<g ref="char:EOLhyphen"/>ferences.</hi>
+                  </item>
+                  <item>4. From the very evil <hi>Conſequences</hi> that attend them; as 1. In that they are great Hinderances of a good Life. 2. They are very pernicious to the <hi>Civil Peace</hi> of the <hi>State.</hi> 3. They are highly Opprobrious to Chriſtianity in general. And 4. and laſtly, Very dan<g ref="char:EOLhyphen"/>gerous to the <hi>Proteſtant Religion,</hi> as giving too many advantages, and too much encouragement to the <hi>Fa<g ref="char:EOLhyphen"/>ctors</hi> of the <hi>Papacy.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>But I have I fear already exceeded the Limits of a <hi>Ser<g ref="char:EOLhyphen"/>mon,</hi> and therefore ſhall add no more.</p>
+            <p>
+               <hi>God open our Eyes, that we may in this our day under<g ref="char:EOLhyphen"/>ſtand the</hi> Things <hi>that belong to</hi> Peace, <hi>before they be hid from our Eyes.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="bibliography">
+            <pb facs="tcp:110686:17"/>
+            <head>
+               <hi>Books Printed for</hi> Walter Kettilby, <hi>at the Biſhop's-Head in S<hi rend="sup">t</hi>
+               </hi> Paul<hi>'s Church-Yard.</hi>
+            </head>
+            <p>A Diſcourſe concerning Conſcience; The firſt Part; wherein an account is given of the Nature, and Rule, and Obligation of it. And the caſe of thoſe who ſeparate from the Communion of the Church of <hi>England,</hi> as by Law eſtabliſhed, upon this pretence, that it is againſt their Con<g ref="char:EOLhyphen"/>ſcience to join in it, is ſtated and diſcuſſed.</p>
+            <p>A Diſcourſe of Conſcience: The ſecond Part; concerning a doubting Conſcience.</p>
+            <p>A Sermon before the Lord Mayor and Court of Alder<g ref="char:EOLhyphen"/>men, <hi>Aug.</hi> 23. 1674. on <hi>Rom.</hi> xiv. 19.</p>
+            <p>A Sermon before the Lord Mayor and Court of Alder<g ref="char:EOLhyphen"/>men, <hi>Jan.</hi> 31. 1675. on 1 <hi>Tim.</hi> iv. 8.</p>
+            <p>A Faſt-Sermon before the Houſe of Commons, <hi>April</hi> 11. 1679. on <hi>Revel.</hi> ii. 5.</p>
+            <p>The Duty and Happineſs of doing good, in two Sermons, the former Preached at the <hi>Yorkſhire</hi> Feaſt, <hi>Feb.</hi> 17. 1679. on <hi>Eccl.</hi> iii. 10. the other before the Lord Mayor at the <hi>Spittle, Apr.</hi> 14. 1680. on 1 <hi>Tim.</hi> vi. 17, 18, 19.</p>
+            <p>A Sermon at the Election of the Lord Mayor, <hi>Sept.</hi> 29. 1680. on <hi>Pſal.</hi> cxii. 4.</p>
+            <p>A Lent Sermon at <hi>Whitehal, March</hi> 20. 1684. on <hi>Luke</hi> xvi. 31.</p>
+            <p>A Sermon before the Queen at <hi>Whitehall, Apr.</hi> 11. 1690. on <hi>Gal.</hi> v. 13.</p>
+            <p>A Faſt-Sermon before the Honourable Houſe of Com<g ref="char:EOLhyphen"/>mons, <hi>May</hi> 21. 1690. on <hi>Deut.</hi> v. 29.</p>
+            <p>A Sermon on the 28. of <hi>June,</hi> at St. <hi>Giles</hi> in the Fields, at the leaving that Pariſh, on <hi>Phil.</hi> iv. 8. all twelve by the moſt Reverend Father in God, <hi>John</hi> Lord Arch-Biſhop of <hi>York.</hi>
+            </p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:110686:17"/>
+            <head>Books Printed for <hi>W. Kettilby.</hi>
+            </head>
+            <p>Biſhop <hi>Overall</hi>'s Convocation Book MDC VI. concern<g ref="char:EOLhyphen"/>ing the Government of God's Catholick Church, and the Kingdoms of the whole World, 4<hi rend="sup">t</hi>o</p>
+            <p>Faith and Practice of a Church of <hi>England</hi> Man, 12. The Third Edition.</p>
+            <p>D<hi rend="sup">r</hi> 
+               <hi>Worthington</hi> of Chriſtian Love, 8<hi rend="sup">v</hi>o</p>
+            <p>Animadverſions on Mr. <hi>Johnſon</hi>'s Anſwer to <hi>Jovian,</hi> 8<hi rend="sup">v</hi>o</p>
+            <p>M<hi rend="sup">r</hi> 
+               <hi>Nichols</hi>'s Anſwer to the Naked Goſpel, 4<hi rend="sup">t</hi>o</p>
+            <p>
+               <hi>Turner</hi> De Angelorum &amp; Hominum Lapſu, 4<hi rend="sup">t</hi>o</p>
+            <p>Biſhop of <hi>Chicheſter</hi>'s Sermon before the King and Queen, <hi>June</hi> 1. 1690.</p>
+            <p>D<hi rend="sup">r</hi> 
+               <hi>Pelling</hi>'s Sermon before the King and Queen, <hi>Decem.</hi> 8. 1689.</p>
+            <p>—'s Vindication of thoſe that have taken the Oath, 4<hi rend="sup">t</hi>o</p>
+            <p>M<hi rend="sup">r</hi> 
+               <hi>Lamb</hi>'s Dialogues between a Miniſter and his Pa<g ref="char:EOLhyphen"/>riſhioner, about the Lord's Supper, 8<hi rend="sup">v</hi>o</p>
+            <p>—'s Sermon before the King at <hi>Windſor.</hi>
+            </p>
+            <p>—'s Sermon before the Lord Mayor.</p>
+            <p>—'s Liberty of humane Nature, ſtated, diſcuſſed and limited.</p>
+            <p>—'s Sermon before the King and Queen, <hi>Jan.</hi> 19. 1689.</p>
+            <p>—'s Sermon before the Queen, <hi>Jan.</hi> 24. 1690.</p>
+            <p>D<hi rend="sup">r</hi> 
+               <hi>Hickman</hi>'s Thankſgiving Sermon before the Honour<g ref="char:EOLhyphen"/>able Houſe of Commons, <hi>Oct.</hi> 19. 1690.</p>
+            <p>—'s Sermon before the Queen at <hi>Whitehall, Oct.</hi> 26. 1690.</p>
+            <p>D<hi rend="sup">r</hi> 
+               <hi>Burnet</hi>'s Anſwer to M<hi rend="sup">r</hi> 
+               <hi>Warren.</hi>
+            </p>
+            <p>—'s Conſiderations of M<hi rend="sup">r</hi> 
+               <hi>Warren</hi>'s Defence.</p>
+            <p>Biſhop of <hi>Bath</hi> and <hi>Wells</hi> Reflections on a <hi>French</hi> Teſta<g ref="char:EOLhyphen"/>ment, Printed at <hi>Bordeaux.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
